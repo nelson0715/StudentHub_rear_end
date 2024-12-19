@@ -35,13 +35,13 @@
 Body :
 ```typescript
 {
-    "userName": "tkuim0425",
-    "name": "王大明",
+    "userName": "tkuim0715",
+    "name": "大帥哥",
     "sid": "51",
     "department": "資訊管理學系",
     "grade": "3",
     "class": "C",
-    "Email": "411630519@o365.tku.edu.tw"
+    "Email": "411630543@o365.tku.edu.tw"
 }
 ```
 
@@ -52,7 +52,7 @@ Body :
     "code": 200,
     "message": "",
     "body": {
-        "userName": "tkuim0425",
+        "userName": "tkuim0715",
         "name": "大帥哥",
         "sid": "51",
         "department": "資訊管理學系",
@@ -115,8 +115,8 @@ Body :
 Body :
 ```typescript
 {
-  "userName": "tkuim0425",
-  "name": "陳庭浩"
+  "userName": "tkuim0715",
+  "name": "大帥哥"
 }
 ```
 
@@ -128,7 +128,7 @@ Body :
   "message": "update success",
   "body": {
     "userName": "tkuim0715",
-    "name": "廖則宇"
+    "name": "大帥哥"
   }
 }
 ```
